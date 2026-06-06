@@ -1,4 +1,4 @@
-# ORINIUM-BARS
+ORINIUM-BARS
 
 ├── System Architecture
 ├── Power Board
