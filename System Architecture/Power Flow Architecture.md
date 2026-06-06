@@ -1,3 +1,5 @@
+Güç akışı 72V LiFePO4 batarya ile başlar. Batarya çıkışı giriş koruma, sigorta, kontaktör ve precharge devresinden geçerek 72V DC bus hattını oluşturur. Bu DC bus hattı hem motor sürücü katını hem de yardımcı güç dönüştürücüleri besler.
+'''
 72V LiFePO4 Battery
         |
         v
@@ -33,3 +35,4 @@ Contactor + Precharge
         v
 5V → 3.3V
 3.3V / 3A
+'''
