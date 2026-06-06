@@ -1,2 +1,10 @@
 # ORINIUM-BARS
-72V Modular UGV Electronics Platform
+
+├── System Architecture
+├── Power Board
+├── Motor Driver
+├── Signal Board
+├── Images
+├── Schematics
+├── PCB
+└── Documents
